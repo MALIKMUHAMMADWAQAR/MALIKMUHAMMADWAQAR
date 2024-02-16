@@ -1,7 +1,7 @@
 ### Hi there 👋 welcome.
   
   
-<img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/cherry_blossom.jpg" align="left" height="200" width="640" />  
+<img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/fresh_water_lake.jpg" align="left" height="970" width="1296" />  
 <br/>  
 
 My name is Malik Waqar, and I have done my master’s from Chungbuk National University. I have a keen interest in vision applications and robotics.
