@@ -3,7 +3,7 @@
 <div align = 'center'>  
 <img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" height="200" width="600">  
 </div> 
-<br/>  
+
 <div align="left">My name is Malik Waqar, and I have done my master’s from Chungbuk National University. I have a keen interest in vision applications and robotics.
 Currently, I am learning the fundamentals of deep learning, computer vision, and robotics operating systems (ROS). I am looking forward to other
 community members with the same interest. I invite you to join me on this journey, let’s learn and exchange ideas. 
