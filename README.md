@@ -1,6 +1,6 @@
 ### Hi there 👋 welcome.
   
-<div>  
+<div align = 'center>  
 <img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" height="200" width="600">  
 </div> 
 <br/>  
