@@ -1,7 +1,7 @@
 ### Hi there 👋 welcome.
   
 <div align = 'center'>  
-<img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" height="200" width="600">  
+<img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" height="200" width="600"/>  
 </div> 
 <br/>
 <div align="left">My name is Malik Waqar, and I have done my master’s from Chungbuk National University. I have a keen interest in vision applications and robotics.
@@ -54,14 +54,11 @@ Besides this, I love to hike and take photos of landscapes, mountains, and lakes
 <br/>  
 
 
-## Github Stats  
   
 
 <br/>  
 
 
-## Recent Blog Posts  
-  
 
 <br/>  
 
