@@ -22,15 +22,7 @@
 <td><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/python-original.svg](https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/python.svg)" alt="Python" height="50" /></a></td>
 </div>
 </tr>
-</td><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
