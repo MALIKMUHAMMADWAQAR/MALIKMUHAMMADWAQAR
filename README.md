@@ -1,12 +1,15 @@
 ### Hi there 👋 welcome.
   
-<div align = "center">  
-<img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" style=" margin-right: 20px; clear: right;">  
+<div align="center">  
+  <img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" style="margin-right: 20px; clear: right;"/>  
 </div> 
 <br/>
-<div style="clear: left">My name is Malik Waqar, and I have done my master’s from Chungbuk National University. I have a keen interest in vision applications and robotics. Currently, I am learning the fundamentals of deep learning, computer vision, and robotics operating systems (ROS). I am looking forward to other community members with the same interest. I invite you to join me on this journey, let’s learn and exchange ideas.<br/>
-- Skills: Deep learning and image processing (Beginner Level 🌱)<br/> 
-- Besides this, I love to hike and take photos of landscapes, mountains, and lakes.</div>
+<div style="clear: left; margin-left: 620px;">
+  My name is Malik Waqar, and I have done my master’s from Chungbuk National University. I have a keen interest in vision applications and robotics. Currently, I am learning the fundamentals of deep learning, computer vision, and robotics operating systems (ROS). I am looking forward to other community members with the same interest. I invite you to join me on this journey, let’s learn and exchange ideas.<br/>
+  - Skills: Deep learning and image processing (Beginner Level 🌱)<br/> 
+  - Besides this, I love to hike and take photos of landscapes, mountains, and lakes.
+</div>
+
   
 
 
