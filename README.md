@@ -19,7 +19,7 @@
 
 <td><div align="center">  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a></td>
-<td><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/python.svg" alt="Python" width="50" height="50" /></a></td>
+<td><a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/python.svg" alt="Python" height="50" /></a></td>
 </div>
 </tr>
 </table>
