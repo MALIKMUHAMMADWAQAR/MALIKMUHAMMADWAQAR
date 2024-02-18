@@ -1,5 +1,14 @@
 ### Hi there 👋 welcome.
-  
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 0; /* Remove border from the table */
+  }
+  td {
+    padding: 0; /* Remove padding */
+  }
+</style>
 <div>
     <img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" style="margin-right: 20px; clear: right;"/>  
 </div>
