@@ -1,19 +1,4 @@
 ### Hi there 👋 welcome.
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    border: 0; /* Remove border from the table */
-  }
-  td {
-    padding: 0; /* Remove padding */
-  }
-</style>
 <div>
     <img src="https://github.com/MALIKMUHAMMADWAQAR/MALIKMUHAMMADWAQAR/blob/main/PROFILE.png" align="left" style="margin-right: 20px; clear: right;"/>  
 </div>
@@ -29,7 +14,7 @@
 
 
 ## My Skill Set  
-<table border-collapse: collapse;>
+<table border-collapse: collapse; border:0;>
 
 <td> 
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a></td>
